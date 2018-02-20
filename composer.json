@@ -1,0 +1,11 @@
+{
+    "name": "dale.paget/storm-helpers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dale",
+            "email": "Dale.Paget@ekkosense.co.uk"
+        }
+    ],
+    "require": {}
+}
