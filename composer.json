@@ -1,10 +1,10 @@
 {
-    "name": "dale.paget/storm-helpers",
+    "name": "phutureproof/storm-helpers",
     "license": "MIT",
     "authors": [
         {
             "name": "Dale",
-            "email": "Dale.Paget@ekkosense.co.uk"
+            "email": "dale@phutureproof.com"
         }
     ],
     "require": {}
